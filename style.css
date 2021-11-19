@@ -1,3 +1,8 @@
 .splash {
-  color:red
+  color:red;
+  font-family: arial, helvetica, sans-serif;
+}
+
+body{
+  background-color:grey
 }
