@@ -11,7 +11,7 @@ body{
      width: 0;
      height: 0;
      border: 100px solid transparent;
-     border-bottom-color: red;
+     border-bottom-color: black;
      position: relative;
      top: -100px;
    }
